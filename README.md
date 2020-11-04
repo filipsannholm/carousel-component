@@ -8,7 +8,7 @@
 ## Example
 
 ```
-import SimpleCarousel, { Controls, Slides, PreviousButton, NextButton, PageIndicator } from '../SimpleCarousel';
+import SimpleCarousel, { Controls, Slides, PreviousButton, NextButton, PageIndicator } from 'SimpleCarousel';
 
 const myCarousel = () => {
   return (
